@@ -1,0 +1,55 @@
+# ================================
+# .gitignore para Jupyter Notebooks
+# ================================
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários e caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Saídas intermediárias de notebooks
+*.nbconvert.ipynb
+
+# Dados e resultados pesados (opcional)
+data/
+outputs/
+results/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Logs
+logs/
+*.log
+
+# Arquivos de configuração locais
+*.env
+*.secret
+config_local.yaml
