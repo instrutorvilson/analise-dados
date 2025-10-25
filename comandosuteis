@@ -1,0 +1,25 @@
+Verificar versão do python
+> Python 3.11.7
+
+Criar ambiente virtual
+> python -m venv venv
+
+Ativar no windows
+> venv\Scripts\activate
+
+Instalar jupyter
+> pip install notebook
+
+Iniciar jupity
+> jupyter notebook
+
+git init
+
+git remote add origin https://github.com/instrutorvilson/analise-dados.git
+
+git status (verifica se tem algo no stage)
+git add nome_arqivo (adiciona arquivo no stage)
+
+git branch -M main (criar branch main e trocar de branch)
+
+git push -u origin main
