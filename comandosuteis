@@ -22,4 +22,6 @@ git add nome_arqivo (adiciona arquivo no stage)
 
 git branch -M main (criar branch main e trocar de branch)
 
+git commit -m "mensagem"
+
 git push -u origin main
