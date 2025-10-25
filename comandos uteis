@@ -1,0 +1,14 @@
+Verificar versão do python
+> Python 3.11.7
+
+Criar ambiente virtual
+> python -m venv venv
+
+Ativar no windows
+> venv\Scripts\activate
+
+Instalar jupyter
+> pip install notebook
+
+Iniciar jupity
+> jupyter notebook
