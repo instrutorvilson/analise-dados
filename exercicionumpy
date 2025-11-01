@@ -1,0 +1,19 @@
+Crie um array com os números de 0 a 50. Calcule e mostre:
+-> Média, valor máximo e mínimo.
+-> Raiz quadrada e logaritmo natural de cada elemento.
+
+Crie uma nova matriz 5x10 com os mesmos dados e exiba:
+-> O elemento da linha 2, coluna 4.
+-> A soma de cada linha.
+
+Dado o vetor de temperaturas médias da semana:
+-> temp = np.array([30.5, 31.2, 29.8, 32.0, 33.1, 30.0, 29.5])
+-> Calcule a média, o desvio padrão e o valor máximo.
+-> Mostre apenas os dias com temperatura acima da média.
+-> Converta as temperaturas para Fahrenheit (F = C * 1.8 + 32).
+
+Crie uma matriz 5x4 com notas aleatórias entre 0 e 10 usando np.random.randint(0,11,(5,4)).
+-> Calcule a média de cada aluno (linha).
+-> Mostre apenas os alunos com média ≥ 7.
+-> Mostre a maior nota entre todos os alunos.
+
