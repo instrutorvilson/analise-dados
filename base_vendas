@@ -1,0 +1,62 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+
+df = pd.DataFrame({
+    "Loja": [
+        "Loja A","Loja A","Loja A","Loja A","Loja A",
+        "Loja B","Loja B","Loja B","Loja B","Loja B",
+        "Loja C","Loja C","Loja C","Loja C","Loja C",
+        "Loja D","Loja D","Loja D","Loja D","Loja D",
+        "Loja A","Loja B","Loja C","Loja D","Loja A","Loja C","Loja B"
+    ],
+    "Produto": [
+        "Camiseta","Calça","Tênis","Bermuda","Jaqueta",
+        "Camiseta","Calça","Tênis","Bermuda","Jaqueta",
+        "Camiseta","Calça","Tênis","Bermuda","Jaqueta",
+        "Camiseta","Calça","Tênis","Bermuda","Jaqueta",
+        "Camiseta","Calça","Tênis","Camiseta","Jaqueta","Bermuda","Tênis"
+    ],
+    "Quantidade": [
+        3,2,1,4,1,
+        5,1,2,3,1,
+        2,3,1,2,2,
+        4,2,2,3,1,
+        2,3,1,3,1,4,1
+    ],
+    "Preco": [
+        50,120,300,70,250,
+        55,110,280,65,270,
+        48,130,320,75,260,
+        52,115,290,68,255,
+        50,115,310,52,250,75,280
+    ],
+    "DataVenda": [
+        "2024-01-05","2024-01-05","2024-01-06","2024-01-07","2024-01-08",
+        "2024-01-03","2024-01-03","2024-01-04","2024-01-06","2024-01-08",
+        "2024-01-02","2024-01-03","2024-01-05","2024-01-06","2024-01-07",
+        "2024-01-04","2024-01-06","2024-01-07","2024-01-08","2024-01-09",
+        "2024-01-10","2024-01-10","2024-01-10","2024-01-10","2024-01-11",
+        "2024-01-12","2024-01-12"
+    ]
+})
+
+# Coluna já calculada
+df["Vendas"] = df["Quantidade"] * df["Preco"]
+
+-----
+ax = sns.barplot(x="Loja", y="Vendas", data=df, estimator=np.sum)
+plt.title("Vendas por Loja - Seaborn")
+
+for p in ax.patches:
+    valor = p.get_height()
+    ax.text(
+        p.get_x() + p.get_width() / 2,   # posição x central
+        valor,                           # posição y (em cima da barra)
+        f'{valor:.2f}',                  # texto formatado
+        ha='center', 
+        va='bottom'
+    )
+
+plt.show()
