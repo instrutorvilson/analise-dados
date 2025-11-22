@@ -1,0 +1,10 @@
+Analise exploratória (aula 5)
+-> Ler com seaborn o dataset tips
+-> mostrar estatisticas descritivas
+-> mostrar distribuição dos dados
+-> mostrar outliers
+-> analisar correlação das váriaveis numéricas
+-> mostrar relação entre as váriaveis
+-> analisar agrupamentos
+-> contagem de categorias
+-> analisar multiplos valores
