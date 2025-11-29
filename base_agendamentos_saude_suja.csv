@@ -1,0 +1,201 @@
+data_agendamento,paciente,especialidade,medico,turno,faltou
+2025-01-04,Paciente_38,Ginecologia,,Manhã,0
+2025-01-18,Paciente_45,Ginecologia,,manha,1
+2025-04-25,Paciente_2,Ginecologia,Dr. Silva,manha,0
+05-01-2025,Paciente_49,Clínico Geral,Dra. Maria,Noite,1
+2025-03-06,Paciente_37,Clínico Geral,Dr. João,manha,1
+2025-04-02,Paciente_25,Cardiologia,,Tarde,1
+2025-01-29,Paciente_31,Pediatria,,,0
+22-04-2025,Paciente_1,Ginecologia,Dr. Silva,Manhã,1
+2025-03-31,Paciente_23,Pediatria,Dra. Maria,,1
+2025-01-28,Paciente_20,Cardiologia,Dr. João,manhã,1
+2025-01-12,Paciente_49,,Dra. Maria,,0
+2025-02-14,Paciente_25,Cardiologia,Dr. João,Noite,0
+2025-04-04,Paciente_27,Ginecologia,,,0
+2025-04-29,Paciente_35,,,manhã,1
+2025-04-17,Paciente_48,,Dr. Silva,Manhã,0
+2025-02-16,Paciente_48,Cardiologia,Dr. Silva,Tarde,0
+2025-01-06,Paciente_35,Ginecologia,Dra. Maria,Manhã,1
+2025-01-11,Paciente_39,,Dra. Maria,Manhã,1
+2025-02-18,Paciente_15,Cardiologia,Dr. João,Noite,0
+2025-02-16,Paciente_32,Cardiologia,Dr. Silva,manhã,1
+2025-03-27,Paciente_15,Ginecologia,,Manhã,0
+24-03-2025,Paciente_18,Cardiologia,Dr. Silva,Manhã,1
+2025-03-10,Paciente_28,Cardiologia,Dra. Maria,Tarde,0
+2025-02-18,Paciente_32,Cardiologia,Dr. Silva,manha,1
+2025-03-30,Paciente_2,Pediatria,,Tarde,0
+2025-04-18,Paciente_25,Clínico Geral,Dr. Silva,manhã,0
+2025/13/40,Paciente_22,Pediatria,Dra. Maria,manhã,1
+2025-04-14,Paciente_43,Cardiologia,,Noite,1
+2025-01-28,Paciente_44,Clínico Geral,Dr. João,,1
+2025-04-02,Paciente_26,,Dr. João,,1
+2025-02-20,Paciente_47,Pediatria,,,0
+2025-01-19,Paciente_11,Pediatria,,manha,0
+2025-03-13,Paciente_30,Pediatria,,manhã,0
+2025-02-24,Paciente_9,Ginecologia,Dra. Maria,manha,1
+2025-01-29,Paciente_40,Cardiologia,,,0
+05-03-2025,Paciente_35,,Dra. Maria,,0
+2025/13/40,Paciente_2,,,Tarde,0
+2025-03-22,Paciente_26,,Dra. Maria,manhã,0
+18-03-2025,Paciente_38,Cardiologia,Dra. Maria,,0
+2025-03-01,Paciente_37,Clínico Geral,Dr. Silva,Manhã,1
+2025-04-21,Paciente_43,Pediatria,Dr. João,manhã,1
+2025-01-15,Paciente_2,Cardiologia,,manha,1
+2025-02-04,Paciente_6,Pediatria,Dr. João,manhã,1
+2025-02-07,Paciente_42,Cardiologia,Dr. João,Noite,0
+2025-04-03,Paciente_28,Pediatria,Dr. Silva,Manhã,1
+2025-03-06,Paciente_9,Cardiologia,Dr. João,,1
+2025-01-14,Paciente_30,Clínico Geral,Dr. João,Noite,1
+2025-03-23,Paciente_12,,,Tarde,0
+2025-02-17,Paciente_4,Pediatria,Dra. Maria,manhã,0
+2025-04-10,Paciente_17,Cardiologia,,manhã,0
+2025-03-18,Paciente_25,Clínico Geral,,Tarde,0
+2025/13/40,Paciente_21,Clínico Geral,Dr. João,Noite,0
+2025-04-23,Paciente_14,,Dr. João,Manhã,0
+31-01-2025,Paciente_30,Cardiologia,,,1
+11-01-2025,Paciente_21,Pediatria,,Noite,1
+2025-01-09,Paciente_22,Ginecologia,Dr. João,manha,1
+2025-01-17,Paciente_49,Clínico Geral,Dra. Maria,,1
+2025-03-12,Paciente_25,Clínico Geral,Dra. Maria,Noite,1
+2025-03-19,Paciente_18,,,Manhã,1
+2025-03-11,Paciente_49,Cardiologia,Dra. Maria,manhã,1
+2025-04-02,Paciente_27,Ginecologia,,Noite,0
+2025-03-25,Paciente_17,Ginecologia,Dr. Silva,Tarde,0
+2025-02-27,Paciente_6,Ginecologia,Dr. João,Manhã,1
+13-02-2025,Paciente_31,Cardiologia,,manhã,1
+2025-03-17,Paciente_2,Pediatria,,Manhã,0
+2025/13/40,Paciente_48,Clínico Geral,,,1
+30-01-2025,Paciente_35,Cardiologia,Dra. Maria,Tarde,1
+2025/13/40,Paciente_4,Ginecologia,,,1
+2025-03-07,Paciente_23,Clínico Geral,Dr. Silva,,0
+2025-01-28,Paciente_15,Clínico Geral,Dra. Maria,manha,0
+2025-04-23,Paciente_42,Ginecologia,Dr. João,Manhã,1
+2025-04-11,Paciente_5,Ginecologia,Dr. Silva,Manhã,0
+13-01-2025,Paciente_50,Clínico Geral,,Noite,0
+2025-02-24,Paciente_42,,Dr. Silva,Tarde,0
+2025-01-07,Paciente_3,Clínico Geral,,Tarde,1
+13-01-2025,Paciente_49,Pediatria,Dr. Silva,manha,0
+2025-04-13,Paciente_2,Pediatria,Dra. Maria,Tarde,0
+2025-01-25,Paciente_16,,,Manhã,1
+2025-01-24,Paciente_13,Cardiologia,Dra. Maria,manha,1
+29-04-2025,Paciente_2,Clínico Geral,Dr. Silva,Tarde,1
+2025-04-20,Paciente_40,Pediatria,,manha,0
+2025/13/40,Paciente_10,Clínico Geral,Dr. João,Tarde,0
+18-04-2025,Paciente_16,,Dr. João,Tarde,1
+2025/13/40,Paciente_9,Ginecologia,,Noite,1
+2025-01-31,Paciente_31,,Dr. Silva,Tarde,0
+2025-01-28,Paciente_43,,Dr. João,manha,0
+2025-01-22,Paciente_8,,,Manhã,1
+2025-02-03,Paciente_37,Pediatria,Dr. João,Noite,0
+2025-02-06,Paciente_14,,,Tarde,1
+2025-04-11,Paciente_30,Ginecologia,Dr. Silva,Tarde,0
+2025-01-20,Paciente_45,Ginecologia,Dr. Silva,manha,1
+2025-01-08,Paciente_17,Ginecologia,Dra. Maria,Noite,0
+2025-04-06,Paciente_50,Cardiologia,Dr. João,Tarde,1
+2025/13/40,Paciente_24,,Dra. Maria,Manhã,0
+2025-04-28,Paciente_11,Ginecologia,Dr. Silva,,1
+07-03-2025,Paciente_39,Cardiologia,,Manhã,0
+18-03-2025,Paciente_39,,Dr. Silva,Tarde,1
+2025-02-21,Paciente_48,,Dr. Silva,Manhã,1
+2025-02-01,Paciente_46,Clínico Geral,,Noite,1
+2025/13/40,Paciente_8,,Dra. Maria,Tarde,1
+2025/13/40,Paciente_50,Clínico Geral,Dr. João,manha,1
+2025-03-14,Paciente_11,Pediatria,Dr. Silva,Noite,0
+2025-01-27,Paciente_20,Pediatria,Dr. Silva,Manhã,1
+2025-02-03,Paciente_7,Cardiologia,Dr. João,Tarde,0
+2025-02-08,Paciente_38,Clínico Geral,Dr. Silva,Noite,1
+30-04-2025,Paciente_2,Pediatria,Dr. João,Manhã,0
+2025-03-14,Paciente_20,Pediatria,Dr. João,Tarde,1
+2025/13/40,Paciente_37,Pediatria,Dr. João,,1
+2025-02-03,Paciente_44,,,manhã,0
+2025-01-09,Paciente_25,Clínico Geral,Dra. Maria,manha,1
+2025-01-21,Paciente_26,Pediatria,Dra. Maria,Manhã,0
+2025-02-08,Paciente_46,Clínico Geral,,,0
+2025-03-25,Paciente_13,Ginecologia,Dra. Maria,Manhã,1
+2025-03-12,Paciente_5,Ginecologia,Dra. Maria,manhã,1
+2025-05-01,Paciente_38,,Dra. Maria,manhã,0
+2025-04-24,Paciente_45,Ginecologia,Dr. Silva,Noite,1
+2025-02-04,Paciente_41,Cardiologia,,manha,1
+2025-02-13,Paciente_16,Clínico Geral,Dra. Maria,manha,1
+2025-02-03,Paciente_7,Pediatria,,Manhã,0
+2025-04-27,Paciente_45,Cardiologia,Dra. Maria,manhã,1
+2025/13/40,Paciente_50,Cardiologia,Dra. Maria,manha,0
+05-02-2025,Paciente_20,Ginecologia,,Tarde,0
+2025-01-17,Paciente_44,Clínico Geral,Dr. João,manha,0
+2025-04-05,Paciente_39,Pediatria,,Manhã,0
+13-03-2025,Paciente_8,Cardiologia,Dr. João,,1
+2025/13/40,Paciente_37,,Dr. Silva,,1
+2025-04-26,Paciente_3,Pediatria,,manha,0
+2025/13/40,Paciente_23,Ginecologia,Dr. João,Noite,0
+2025-03-12,Paciente_35,Clínico Geral,Dra. Maria,manhã,0
+2025-02-09,Paciente_28,,Dr. Silva,,0
+21-04-2025,Paciente_43,Pediatria,,Manhã,1
+2025-03-29,Paciente_24,Pediatria,Dr. João,Manhã,0
+2025-04-10,Paciente_5,Cardiologia,Dr. João,manhã,0
+2025-03-21,Paciente_33,Pediatria,,manhã,0
+2025-01-31,Paciente_42,Clínico Geral,Dr. João,manhã,0
+2025-04-14,Paciente_22,Clínico Geral,,,0
+2025-01-23,Paciente_1,Pediatria,Dr. João,Manhã,1
+2025-04-30,Paciente_27,Cardiologia,Dra. Maria,manhã,1
+2025-04-05,Paciente_32,,,,1
+2025-04-11,Paciente_7,,,manhã,1
+2025-01-05,Paciente_28,Cardiologia,Dr. Silva,Manhã,1
+2025-04-15,Paciente_24,Ginecologia,Dra. Maria,Manhã,0
+2025-04-16,Paciente_41,Clínico Geral,,Noite,1
+2025-01-04,Paciente_30,Ginecologia,Dr. João,manha,0
+2025-02-05,Paciente_46,Cardiologia,Dr. João,Tarde,1
+2025-02-05,Paciente_10,Ginecologia,Dr. João,Manhã,1
+2025-03-28,Paciente_28,Cardiologia,Dr. Silva,Tarde,1
+01-05-2025,Paciente_12,,,Noite,1
+2025-02-03,Paciente_47,,Dr. João,manha,0
+03-02-2025,Paciente_34,Ginecologia,Dr. Silva,,1
+2025-02-14,Paciente_42,Ginecologia,Dr. Silva,manha,0
+2025-03-19,Paciente_18,Clínico Geral,,manha,1
+2025-04-26,Paciente_40,,Dr. João,,1
+2025-04-01,Paciente_35,Clínico Geral,Dra. Maria,Noite,1
+2025-04-14,Paciente_50,Ginecologia,Dr. João,manhã,0
+2025-04-05,Paciente_31,Cardiologia,Dra. Maria,manha,0
+25-02-2025,Paciente_30,,Dra. Maria,manha,1
+2025-02-12,Paciente_28,Cardiologia,Dr. João,Noite,1
+2025-01-16,Paciente_47,Clínico Geral,Dra. Maria,manhã,0
+2025-02-09,Paciente_38,Clínico Geral,Dr. Silva,manha,0
+2025-03-31,Paciente_18,Pediatria,Dr. Silva,manha,1
+2025-02-23,Paciente_21,,Dr. João,manhã,1
+2025-04-06,Paciente_16,,,Manhã,0
+2025-02-08,Paciente_6,Clínico Geral,Dr. Silva,,1
+2025-02-08,Paciente_18,Cardiologia,Dr. João,Manhã,0
+2025-03-16,Paciente_29,,Dra. Maria,,1
+2025-02-26,Paciente_16,Clínico Geral,Dr. Silva,,1
+2025-03-02,Paciente_49,Pediatria,Dr. João,manha,0
+2025-04-05,Paciente_30,Ginecologia,Dr. João,,0
+2025/13/40,Paciente_37,,,Tarde,1
+2025-03-23,Paciente_40,Ginecologia,Dra. Maria,manhã,0
+2025/13/40,Paciente_43,Cardiologia,Dra. Maria,manhã,1
+2025-01-31,Paciente_25,Pediatria,Dra. Maria,Tarde,0
+2025-01-26,Paciente_22,,Dr. João,manhã,0
+2025/13/40,Paciente_2,Ginecologia,Dr. João,Noite,0
+2025-03-20,Paciente_32,Ginecologia,Dra. Maria,manhã,0
+2025/13/40,Paciente_21,Clínico Geral,Dr. João,manhã,1
+2025-03-22,Paciente_12,Ginecologia,,manhã,1
+2025-02-19,Paciente_32,Cardiologia,Dr. João,,0
+2025-03-25,Paciente_14,Ginecologia,Dr. João,Manhã,1
+2025-04-21,Paciente_23,Cardiologia,Dr. Silva,Noite,1
+2025-02-24,Paciente_17,Cardiologia,,manhã,1
+2025-03-31,Paciente_22,Clínico Geral,Dr. Silva,Noite,1
+2025/13/40,Paciente_18,Pediatria,Dra. Maria,,1
+2025-04-19,Paciente_39,Cardiologia,Dra. Maria,Noite,1
+2025-03-01,Paciente_45,Ginecologia,,Noite,0
+2025-03-18,Paciente_18,Ginecologia,Dr. João,Tarde,1
+2025-02-26,Paciente_36,Cardiologia,Dr. Silva,,0
+2025-03-06,Paciente_1,Ginecologia,,manhã,1
+2025-02-27,Paciente_34,,Dr. Silva,Manhã,0
+2025-03-02,Paciente_13,Clínico Geral,Dr. João,Manhã,1
+2025-04-18,Paciente_6,Ginecologia,Dr. Silva,Manhã,1
+2025-03-08,Paciente_16,Clínico Geral,,Manhã,1
+26-02-2025,Paciente_47,Cardiologia,Dr. João,manhã,0
+2025-02-04,Paciente_27,Cardiologia,Dr. João,Manhã,1
+2025-01-11,Paciente_32,Cardiologia,,,0
+2025-03-30,Paciente_36,Clínico Geral,Dr. João,,0
+2025-02-23,Paciente_49,Ginecologia,Dr. Silva,Noite,1
+23-02-2025,Paciente_16,,Dra. Maria,Tarde,1
+2025-02-19,Paciente_45,Clínico Geral,,manha,1
